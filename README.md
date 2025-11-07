@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Obateru Boluwatife Andrew!
 
-<!--
-**onlybolu/onlybolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Full Stack Developer** from 🇳🇬 **Nigeria**, currently focused on building impactful and scalable web solutions.  
+I love creating real-world apps that solve financial, social, and creative problems through clean code and smart design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧰 Tech Stack
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB, Next.js  
+**Cloud & Tools:** Vercel, Render, Cloudinary, Git, Postman, VS Code  
+
+---
+
+## 🌟 Featured Projects
+- 🔹 [**RealSavers**] — Smart contribution platform for groups (Next.js + MongoDB + Flutterwave).  
+- 🔹 [**Inovareun Dashboard**] — Admin system built with React + MongoDB.  
+- 🔹 [**BlinkBond**] — Connects two random users for 24 hours.  
+- 🔹 [**Collabriss**] — Collaboration platform under Inovareun.
+
+---
+
+
+## 🌍 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/boluwatife-obateru)
+- 🌐 [Portfolio](https://obateruboluwatife.vercel.app)
+- 📧 [Email Me](mailto:boluwatifeobateru@gmail.com)
+
+---
+
+## 🎯 Fun Facts
+- 🎨 I love creativity both in code and design.  
+- 💡 I believe innovation is best when it’s simple and useful.  
+- 🕓 I dedicate over 6 hours daily to improving my craft.  
+- 🌍 My goal is to build products that connect and empower people globally.
+
+---
+
+

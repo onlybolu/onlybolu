@@ -15,10 +15,10 @@ I love creating real-world apps that solve financial, social, and creative probl
 ---
 
 ## 🌟 Featured Projects
-- 🔹 [**RealSavers**] — Smart contribution platform for groups (Next.js + MongoDB + Flutterwave).  
-- 🔹 [**Inovareun Dashboard**] — Admin system built with React + MongoDB.  
-- 🔹 [**BlinkBond**] — Connects two random users for 24 hours.  
-- 🔹 [**Collabriss**] — Collaboration platform under Inovareun.
+-  [**RealSavers**] — Smart contribution platform for groups (Next.js + MongoDB + Flutterwave).  
+-  [**Inovareun Dashboard**] — Admin system built with React + MongoDB.  
+-  [**BlinkBond**] — Connects two random users for 24 hours.  
+-  [**Collabriss**] — Collaboration platform under Inovareun.
 
 ---
 

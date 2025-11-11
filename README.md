@@ -7,8 +7,8 @@ I love creating real-world apps that solve financial, social, and creative probl
 
 
 ## 🧰 Tech Stack
-**Languages:** JavaScript, TypeScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
+**Languages:** JavaScript, TypeScript, Python, Solidity
+**Frontend:** React, Next.js, Tailwind CSS, Thirdweb.js  
 **Backend:** Node.js, Express, MongoDB, Next.js  
 **Cloud & Tools:** Vercel, Render, Cloudinary, Git, Postman, VS Code  
 
